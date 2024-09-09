@@ -25,8 +25,6 @@ The model is built using an employee dataset that includes features like:
 - Overtime (Yes/No)
 - Attrition (Target: Yes/No)
 
-You can use the popular IBM HR Analytics Employee Attrition & Performance dataset available on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) or your own dataset.
-
 ### Tools and Libraries
 
 The following Python libraries are required to run the model:
@@ -102,4 +100,3 @@ To run the model, follow these steps:
    bash
    python employee_attrition_model.py
    
-
