@@ -69,4 +69,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 6. *Model Evaluation*:  
    - Compare the models based on evaluation metrics
    - Select the best-performing model for deployment
+  
+Employees working in R&D department are more, but employees from sales department or at position like sales executive,sale Representative leaves the job early.
+Males are more under Attrition then Females
+Age column is very well normalized, most of employees are age between 25 to 40.
+we are having some of the numerical columns which are lebel encoded for us, they are ordinal labels, so let's have a look at them first
+Employees from Bachelor are more, then from Masters background. Attrition wrt to bachelor can be seem more because they have more and more expectation from companies and it will be interesting to see the reason behind this in this dataset.
+Accuracy Score - 0.645748987854251¶
 
